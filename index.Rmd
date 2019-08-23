@@ -5,11 +5,7 @@ output:
     theme: united
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-![]("\ECheng_photo.jpg")
+![](ECheng_photo.jpg)
 
 ## Background
 I'm a quantitative ecologist with the National Park Service Inventory & Monitoring Division's Southeast Region office, in Atlanta. That's a mouthful, but it just means I help national parks in the southeast USA design long-term monitoring studies and analyze data on the health of natural resources (plants, wildlife, environment) in our parks. Before I started this job in Atlanta (a few months ago), I was an ecologist with the US Geological Survey for three years. For the four years prior, I trained wildlife biologists in Mongolia and Bhutan.
@@ -34,9 +30,7 @@ I know nothing about machine learning, and am really excited that we will be lea
 ## Personal Fact
 Right now I'm stuck at home with ringworm that I caught from a little kitten I adopted from the streets. Here is the offending kitten, his name is BatBoy. He looked so innocent...
 
-! [Alt text] (/BatBoy.jpg)
+! [BatBoy] (/BatBoy.jpg)
 
 ## Cool Website
-I love learning about large, publicly available environmental databases on the web, because I'm interested in using web services to pull these data into R for analyses. I recently learned about this EPA website for finding out about facilities that discharge pollutants into our air and waterways. It's great because you can look up information for your own area and keep track of when your neighborhood facilities get caught violating environmental regulations. Taxpayer money at work!
-
-https://echo.epa.gov/
+I love learning about large, publicly available environmental databases on the web, because I'm interested in using web services to pull these data into R for analyses. I recently learned about this [EPA website] (https://echo.epa.gov/) for finding out about facilities that discharge pollutants into our air and waterways. It's great because you can look up information for your own area and keep track of when your neighborhood facilities get caught violating environmental regulations. Taxpayer money at work!
