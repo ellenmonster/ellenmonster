@@ -1,0 +1,42 @@
+---
+title: "About Me: Ellen Cheng"
+output: 
+  html_document:
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![]("\ECheng_photo.jpg")
+
+## Background
+I'm a quantitative ecologist with the National Park Service Inventory & Monitoring Division's Southeast Region office, in Atlanta. That's a mouthful, but it just means I help national parks in the southeast USA design long-term monitoring studies and analyze data on the health of natural resources (plants, wildlife, environment) in our parks. Before I started this job in Atlanta (a few months ago), I was an ecologist with the US Geological Survey for three years. For the four years prior, I trained wildlife biologists in Mongolia and Bhutan.
+
+## Training
+My background is in wildlife ecology. I'm also currently pursuing the Infectious Diseases Graduate Certificate at UGA. Disease ecology fascinates me, especially with the massive wildlife declines we have had in the past couple decades due to fungal disease epidemics like white-nose syndrome, chytrid, and snake fungal disease.
+
+## Research Interests
+I'm very interested in the links between human, animal, and environmental health (One Health concept). Other  topics of interest are:
+
+* structured decision-making
+* antibiotic resistance
+* microbiome diversity and human/wildlife health
+* wildlife disease epidemics
+
+## Prior Experience
+I've worked with R for quite a lot of years now, and have taught R courses overseas and for government biologists in the USA. Recently I've been building a lot of interactive data dashboards (using R) for the National Park Service. I really enjoy creating tools that make it easier for park decision-makers to understand and use the natural resources data we collect in the field. In my work I also do a fair bit of statistics, especially with generalized linear mixed models. I've just started dabbling with Bayesian statistics - it's still strange to me. 
+
+## What I'd Like to Learn
+I know nothing about machine learning, and am really excited that we will be learning more about that in this course. I think that's related to "big data", which I also don't know much about but I think I'm interested in that. I would love to learn how we can use citizen science data, like eBird data, in valid data analyses.
+
+## Personal Fact
+Right now I'm stuck at home with ringworm that I caught from a little kitten I adopted from the streets. Here is the offending kitten, his name is BatBoy. He looked so innocent...
+
+! [Alt text] (/BatBoy.jpg)
+
+## Cool Website
+I love learning about large, publicly available environmental databases on the web, because I'm interested in using web services to pull these data into R for analyses. I recently learned about this EPA website for finding out about facilities that discharge pollutants into our air and waterways. It's great because you can look up information for your own area and keep track of when your neighborhood facilities get caught violating environmental regulations. Taxpayer money at work!
+
+https://echo.epa.gov/
